@@ -5,4 +5,4 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 
 
 
-![Alt text](https://media.giphy.com/media/4ZrFRyRqtRXNyYLWNd/giphy.gif)
+![Alt text](https://media1.tenor.com/images/c03593ccbf0833178dbde55b4652b289/tenor.gif)
