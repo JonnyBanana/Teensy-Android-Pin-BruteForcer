@@ -26,7 +26,7 @@ However, I decided to make this simple code to automate a very boring process ..
 <h3>Requirements</h3>
 
 -Teensy Board</BR>
--Otg Adape</BR>
+-Otg Adapter</BR>
 -Micro usb Cable</BR>
 
 </BR>
@@ -36,6 +36,12 @@ However, I decided to make this simple code to automate a very boring process ..
 -Teensy 2.0 or higher</BR>
 
 </BR>
+
+To realize these scripts I took inspiration from the following articles and codes:
+
+https://jumpespjump.blogspot.com/2013/06/online-brute-forcing-android-pin-lock.html
+
+https://github.com/pissedoffadmins/site_scripts/blob/master/4pin_brute.ino
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/brute-gif.gif)
 
