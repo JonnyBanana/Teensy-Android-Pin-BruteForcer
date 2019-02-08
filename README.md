@@ -4,7 +4,7 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/pinout.png)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/OTG%2BTeensy2.0.jpg)
 
 </BR>
 
