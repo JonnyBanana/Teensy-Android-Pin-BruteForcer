@@ -52,7 +52,7 @@ I wanted to optimize the code a little, so as to optimize in most cases the timi
 
 </BR>
 
-<h3>4 Digit PIN</h3>
+<h4>4 Digit PIN Attack</h4>
 
 The code then performs the following attempts:
 - try the twenty most used combinations
@@ -61,7 +61,7 @@ The code then performs the following attempts:
 
 </BR>
 
-<h3>4 Digit PIN</h3>
+<h4>5 Digit PIN Attack</h4>
 
 The code then performs the following attempts:
 - try the twentyfive most used combinations
