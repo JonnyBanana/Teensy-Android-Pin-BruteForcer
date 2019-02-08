@@ -69,5 +69,24 @@ The code then performs the following attempts:
 
 </BR>
 
+<h3>Some Math...</h3>
+
+So how long does this attack take?
+
+</BR>
+
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/brute-gif.gif)
+
+</BR>
+
+In the above gif it takes two seconds, but of course I have specially inserted one of the 20 most 
+used pins for demonstration purposes, in reality things are a bit different ...
+
+A few lengths in comparison:
+
+    -4 digits, 10000tries, 18.4 hours
+    -5 digits, 100000tries, 7.7 days
+    -6 digits, 1000000tries, 77.3 days
+  
+
 
