@@ -19,6 +19,10 @@ https://github.com/JonnyBanana/The-Most-Common-Passwords-Pin-e-ScreenLocks
 
 </BR>
 
+However, I decided to make this simple code to automate a very boring process ...
+
+</BR>
+
 <h3>Requirements</h3>
 
 -Teensy Board</BR>
@@ -30,10 +34,6 @@ https://github.com/JonnyBanana/The-Most-Common-Passwords-Pin-e-ScreenLocks
 
 -Android 4.4.2 or lower (maybe even on some android 5.0 models)</BR>
 -Teensy 2.0 or higher</BR>
-
-</BR>
-
-However, I decided to make this simple code to automate a very boring process ...
 
 </BR>
 
