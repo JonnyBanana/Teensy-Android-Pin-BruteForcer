@@ -79,7 +79,7 @@ So how long does this attack take?
 
 </BR>
 
-In the above gif it takes two seconds, but of course I have specially inserted one of the 20 most 
+In the above gif it takes two seconds, but of course I have specially inserted one of the 20 most</BR>
 used pins for demonstration purposes, in reality things are a bit different ...
 
 A few lengths in comparison:
@@ -103,7 +103,8 @@ If you are having trouble charging the battery, you can use a triple otg cable w
 
 </BR>
 
-The script was written for Teensy 2, but adapt it to other Teensy and very easy and just change a single line of code, I left the comments in the code:
+The script was written for Teensy 2, but adapt it to other Teensy and very easy and just change a single line of code,</BR> 
+I left the comments in the code:
 
 </BR>
 
