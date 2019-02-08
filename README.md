@@ -12,6 +12,10 @@ Although now the Android versions tested are obsolete, in my daily experience as
 Needless to say, the manual operation is boring at best, and not feasible in most ...
 Although I have to say that I manually solved about one in five cases, simply using the list of the most used pin or screen lock that you can find here:
 
+</BR>
+
+https://github.com/JonnyBanana/The-Most-Common-Passwords-Pin-e-ScreenLocks
+
 
 </BR>
 
@@ -26,10 +30,6 @@ Although I have to say that I manually solved about one in five cases, simply us
 
 -Android 4.4.2 or lower (maybe even on some android 5.0 models)</BR>
 -Teensy 2.0 or higher</BR>
-
-</BR>
-
-https://github.com/JonnyBanana/The-Most-Common-Passwords-Pin-e-ScreenLocks
 
 </BR>
 
