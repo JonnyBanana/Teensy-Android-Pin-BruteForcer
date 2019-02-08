@@ -8,6 +8,13 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 
 </BR>
 
+Although now the Android versions tested are obsolete, in my daily experience as a technician I often fall into old models which require me to bypass the pin.
+Needless to say, the manual operation is boring at best, and not feasible in most ...
+Although I have to say that I manually solved about one in five cases, simply using the list of the most used pin or screen lock that you can find here:
+
+
+</BR>
+
 <h3>Requirements</h3>
 
 -Teensy Board</BR>
@@ -19,13 +26,6 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 
 -Android 4.4.2 or lower (maybe even on some android 5.0 models)</BR>
 -Teensy 2.0 or higher</BR>
-
-
-</BR>
-
-Although now the Android versions tested are obsolete, in my daily experience as a technician I often fall into old models which require me to bypass the pin.
-Needless to say, the manual operation is boring at best, and not feasible in most ...
-Although I have to say that I manually solved about one in five cases, simply using the list of the most used pin or screen lock that you can find here:
 
 </BR>
 
