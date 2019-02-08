@@ -95,7 +95,7 @@ If you are having trouble charging the battery, you can use a triple otg cable w
 
 </BR>
 
-https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/s-l1600.jpg
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/s-l1600.jpg)
 
 </BR>
 
