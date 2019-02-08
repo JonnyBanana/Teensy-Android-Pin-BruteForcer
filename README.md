@@ -93,6 +93,12 @@ It can be inferred why I did not even create the script for the 6 digit pins ...
 
 If you are having trouble charging the battery, you can use a triple otg cable with charging adapter like this:
 
+</BR>
 
+https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/s-l1600.jpg
 
-<a href="https://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338010827&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dotg%2520charge%26rt%3Dnc%26LH_PrefLoc%3D2%26_trksid%3Dp2045573.m1684">Link e-Bay</a>
+</BR>
+
+<a href="https://rover.ebay.com/rover/1/724-53478-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338010827&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_sacat%3D0%26_nkw%3Dotg%2520charge%26rt%3Dnc%26LH_PrefLoc%3D2%26_trksid%3Dp2045573.m1684">Cheap Otg Adapter</a>
+
+</BR>
