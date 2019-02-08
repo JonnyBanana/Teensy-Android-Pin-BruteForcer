@@ -6,6 +6,7 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Teensy-Android-Pin-BruteForcer/master/img/pinout.png)
 
+</BR>
 
 <h3>Requirements</h3>
 
@@ -13,13 +14,14 @@ a BruterForcer for Teensy, works with 4 and 5 digit pins, tested on Android 4.4.
 -Otg Adape</BR>
 -Micro usb Cable</BR>
 
+</BR>
 <h3>Compatibility</h3>
 
 -Android 4.4.2 or lower (maybe even on some android 5.0 models)</BR>
 -Teensy 2.0 or higher</BR>
 
 
-
+</BR>
 
 
 
