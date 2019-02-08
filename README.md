@@ -47,7 +47,7 @@ https://github.com/pissedoffadmins/site_scripts/blob/master/4pin_brute.ino
 
 </BR>
 
-These examples from which I started but try to try all the possible combinations from 0 to 9999 (in the case of the 4 digit pin),
+These examples from which I started but they just try all the possible combinations from 0 to 9999 (in the case of the 4 digit pin),
 I wanted to optimize the code a little, so as to optimize in most cases the timing of the attack.
 
 </BR>
