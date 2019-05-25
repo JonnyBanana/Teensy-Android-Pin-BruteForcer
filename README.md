@@ -58,7 +58,7 @@ The code then performs the following attempts:
 - try the twenty most used combinations
 - try all dates from 1900 to 2019
 - try all dates in reverse from 1900 to 2019 (0091 - 9102)
-- if two others have not been successful, try a brute force attack
+- if three others have not been successful, try a brute force attack
 
 </BR>
 
